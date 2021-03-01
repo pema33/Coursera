@@ -11,15 +11,15 @@
 
 	<div class="container">
 		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mollis ornare metus, sit amet dapibus odio placerat non. Sed bibendum ornare leo. Nullam finibus eros ac bibendum pellentesque. Suspendisse egestas non neque ut consequat.
-		 <!--<div style="float:right;" class="hello">Chicken</div>-->
+		 <div style="float:right;" class="hello">Chicken</div>
 	   </div>
 	   <div class="sonam">
 		 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mollis ornare metus, sit amet dapibus odio placerat non. Sed bibendum ornare leo. Nullam finibus eros ac bibendum pellentesque. Suspendisse egestas non neque ut consequat.
-		 <!--<div style="float:right;" class="hello">Beef</div>-->
+		 <div style="float:right;" class="hello">Beef</div>
 	   </div>
-	   <div class="sonam">
+	   <div class="karma">
 		   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mollis ornare metus, sit amet dapibus odio placerat non. Sed bibendum ornare leo. Nullam finibus eros ac bibendum pellentesque. Suspendisse egestas non neque ut consequat.
-		 <!--<div style="float:right;" class="hello">Sushi</div>-->
+		 <div style="float:right;" class="hello">Sushi</div>
 	   </div> 
 
 </body>
