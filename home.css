@@ -1,0 +1,85 @@
+
+.hello{
+  margin-top: 30px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  padding: 0px;
+  text-align: center;
+  border: 1px solid black;
+  font-size: 20px;
+  font-family:'Coiny',cursive;
+  background: #FFA500;
+}
+@media only screen and (max-width: 767px){
+  .container{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 20px;
+    padding: 0px;
+    border: 1px solid black;
+    font-size: 20px;
+    float:right;width:32.33%;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    width: 79.8%;
+  }
+  .sonam{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px;
+    float:right;width:32.33%;
+    border: 1px solid black;
+    font-size: 20px;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    width: 80%;
+  }
+  .karma{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px;
+    border: 1px solid black;
+    font-size: 20px;
+    float:right;width:32.33%;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    width: 80%;
+  }
+}
+@media only screen and (min-width:992px){
+  .container{
+    margin: 0px auto 10px auto;
+    padding: 0px;
+    border: 1px solid black;
+    font-size: 10px;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    float:left;
+    width: 30%;
+  }
+  .sonam{
+    margin: 0px auto 10px auto;
+    border: 1px solid black;
+    font-size: 15px;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    margin-left:300px;
+    float: left;
+    width:30%;
+  }
+  .karma{
+    margin: 0px auto 10px auto;
+    border: 1px solid black;
+    font-size: 10px;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    margin-left:700px;
+    width: 30%;
+    float:left;
+  }
+}
