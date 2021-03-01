@@ -1,7 +1,6 @@
 
 .hello{
   margin-top: 30px;
-  margin-bottom: 0px;
   margin-left: 10px;
   padding: 0px;
   text-align: center;
@@ -51,35 +50,73 @@
     width: 80%;
   }
 }
-@media only screen and (min-width:992px){
+@media only screen and (min-width:768px) and (max-width: 991px){
   .container{
-    margin: 0px auto 10px auto;
+    margin-left: 10px;
+    margin-right: 10px;
     padding: 0px;
     border: 1px solid black;
-    font-size: 10px;
+    font-size: 20px;
+    float: left;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    width: 300px;
+    height: 300px;
+  }
+  .sonam{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0px;
+    border: 1px solid black;
+    font-size: 20px;
+    float: left;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    width: 300px;
+    height: 300px;
+  }
+  .karma{
+    margin-top: 50px;
+    margin-left: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+    float:right;width:32.33%;
+    font-family:'Coiny',cursive;
+    background: #A9A9A9	;
+    width:85%;
+    float: left;
+  }
+}
+@media only screen and (min-width:992px){
+  .container{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px;
+    border: 1px solid black;
+    font-size: 25px;
     font-family:'Coiny',cursive;
     background: #A9A9A9	;
     float:left;
     width: 30%;
   }
   .sonam{
-    margin: 0px auto 10px auto;
+    margin-left: 20px;
+    margin-right: 20px;
     border: 1px solid black;
-    font-size: 15px;
+    font-size: 25px;
     font-family:'Coiny',cursive;
     background: #A9A9A9	;
-    margin-left:300px;
     float: left;
     width:30%;
   }
   .karma{
-    margin: 0px auto 10px auto;
+    margin-left: 20px;
+    margin-right: 20px;
     border: 1px solid black;
-    font-size: 10px;
+    font-size: 25px;
     font-family:'Coiny',cursive;
     background: #A9A9A9	;
-    margin-left:700px;
-    width: 30%;
-    float:left;
+    float: left;
+    width:30%;
   }
 }
